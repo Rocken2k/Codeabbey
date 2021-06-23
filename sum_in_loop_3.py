@@ -1,6 +1,3 @@
-# Challenge: https://www.codeabbey.com/index/task_view/sum-in-loop
-# Author: Rocken2k
-
 def sum_in_loop_3():
     inputs = input().split()
     num_list = []
